@@ -1,0 +1,51 @@
+[
+  {
+    "href": "/category/official",
+    "target": "_self",
+    "label": "Official Store",
+    "icons": [
+      "BiBadgeCheck"
+    ]
+  },
+  {
+    "href": "/category/electronic?p=computer+handphone",
+    "target": "_self",
+    "label": "Computer &amp; Handphone",
+    "icons": [
+      "RiComputerLine",
+      "RiSmartphoneLine"
+    ]
+  },
+  {
+    "href": "/topup",
+    "target": "_self",
+    "label": "Top Up &amp; Tagihan",
+    "icons": [
+      "RiFileList3Line"
+    ]
+  },
+  {
+    "href": "/ticket",
+    "target": "_self",
+    "label": "Ticket",
+    "icons": [
+      "RiTicketLine"
+    ]
+  },
+  {
+    "href": "/digital_games",
+    "target": "_self",
+    "label": "Digital Games",
+    "icons": [
+      "BiJoystick"
+    ]
+  },
+  {
+    "href": "/invest",
+    "target": "_self",
+    "label": "Saving &amp; Invest",
+    "icons": [
+      "BiCoinStack"
+    ]
+  }
+]

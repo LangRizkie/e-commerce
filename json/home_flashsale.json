@@ -1,0 +1,197 @@
+{
+  "title": "Kejar diskon",
+  "endDate": "2023-01-07 22:00:00",
+  "isFlashSale": true,
+  "data": [
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju Baju ",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    },
+    {
+      "flashsale": {
+        "title": "Kejar diskon",
+        "discountPrice": 200000,
+        "discountPercentage": 25,
+        "discountAmount": 100,
+        "discountLeft": 5
+      },
+      "seller": {
+        "id": 1,
+        "name": "Toko Gilang",
+        "city": "Kota Bandung"
+      },
+      "title": "Baju",
+      "price": 250000,
+      "src": "https://via.placeholder.com/208x208.png",
+      "href": null,
+      "target": "_self"
+    }
+  ]
+}
